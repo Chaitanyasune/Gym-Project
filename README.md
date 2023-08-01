@@ -1,3 +1,3 @@
 ﻿# FitnessPlanetClub
 
-live demo ----- https://kamleshjat7782.github.io/FitnessPlanetClub/
+This project is responsive landing page for an gym website with built on HTML, CSS and JAVASCRIPT;
