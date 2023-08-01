@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "ion-icon": {}
+    },
+    "attributes": {
+        "loading": {
+            "context": "iframe"
+        }
+    }
+}
